@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GED Study Guide</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>GED Study Guide</h1>
+            <p>Choose a subject to start practicing</p>
+        </header>
+        
+        <main>
+            <div class="subject-grid">
+                <div class="subject-card" onclick="startQuiz('math')">
+                    <div class="subject-icon">📊</div>
+                    <h2>Math</h2>
+                    <p>100 practice questions</p>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="math-progress"></div>
+                    </div>
+                    <span class="progress-text" id="math-text">0/100</span>
+                </div>
+                
+                <div class="subject-card" onclick="startQuiz('rla')">
+                    <div class="subject-icon">📚</div>
+                    <h2>RLA</h2>
+                    <p>100 practice questions</p>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="rla-progress"></div>
+                    </div>
+                    <span class="progress-text" id="rla-text">0/100</span>
+                </div>
+                
+                <div class="subject-card" onclick="startQuiz('science')">
+                    <div class="subject-icon">🔬</div>
+                    <h2>Science</h2>
+                    <p>100 practice questions</p>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="science-progress"></div>
+                    </div>
+                    <span class="progress-text" id="science-text">0/100</span>
+                </div>
+                
+                <div class="subject-card" onclick="startQuiz('social')">
+                    <div class="subject-icon">🌍</div>
+                    <h2>Social Studies</h2>
+                    <p>100 practice questions</p>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="social-progress"></div>
+                    </div>
+                    <span class="progress-text" id="social-text">0/100</span>
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <script src="js/storage.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1302 @@
+[
+    {
+      "id": 1,
+      "question": "Which of the following lists the numbers 3/5, 0.65, and 1/2 in order from least to greatest?",
+      "options": [
+        "1/2, 3/5, 0.65",
+        "3/5, 1/2, 0.65",
+        "1/2, 0.65, 3/5",
+        "0.65, 3/5, 1/2"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Convert Fractions to Decimals:** To compare the numbers, convert them all to decimals.\n• 3/5 = 3 ÷ 5 = 0.60\n• 1/2 = 1 ÷ 2 = 0.50\n• 0.65 is already a decimal.\n\n**Compare the Decimals:** The numbers in order from least to greatest are 0.50, 0.60, and 0.65.\n\n**Match to Original Numbers:** This corresponds to the order 1/2, 3/5, 0.65."
+    },
+    {
+      "id": 2,
+      "question": "A baker has 7/8 of a pound of sugar. A recipe calls for 1/4 of a pound of sugar. After making the recipe, how much sugar does the baker have left?",
+      "options": [
+        "6/4 pounds",
+        "3/4 pounds",
+        "5/8 pounds",
+        "9/8 pounds"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Identify the Operation:** The phrase \"have left\" indicates subtraction.\n\n**Find a Common Denominator:** To subtract fractions, the denominators must be the same. Convert 1/4 to have a denominator of 8.\n• 1/4 = (1 × 2) / (4 × 2) = 2/8\n\n**Perform the Subtraction:** Now subtract the numerators and keep the common denominator.\n• 7/8 - 2/8 = 5/8\n\nThe baker has 5/8 of a pound of sugar left."
+    },
+    {
+      "id": 3,
+      "question": "Which fraction is greater, 5/6 or 7/9?",
+      "options": [
+        "5/6 is greater because its numerator is smaller.",
+        "7/9 is greater because its denominator is larger.",
+        "5/6 is greater.",
+        "7/9 is greater."
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Use Cross-Multiplication:** A quick way to compare two fractions is to cross-multiply.\n\n**Multiply:**\n• Multiply the numerator of the first fraction by the denominator of the second: 5 × 9 = 45.\n• Multiply the numerator of the second fraction by the denominator of the first: 7 × 6 = 42.\n\n**Compare the Products:** Since 45 is larger than 42, the fraction that contributed to the first product (5/6) is the greater fraction."
+    },
+    {
+      "id": 4,
+      "question": "Simplify the expression: |-25| + |10|",
+      "options": [
+        "-35",
+        "-15",
+        "15",
+        "35"
+      ],
+      "correctAnswer": 3,
+      "correctLetter": "D",
+      "explanation": "**Understand Absolute Value:** The absolute value symbol | | means a number's distance from zero, which is always positive.\n\n**Calculate Each Absolute Value:**\n• |-25| = 25\n• |10| = 10\n\n**Perform the Addition:** The expression simplifies to 25 + 10.\n• 25 + 10 = 35"
+    },
+    {
+      "id": 5,
+      "question": "A point is located at -6 on a number line. Another point is located at 8 on the same number line. What is the distance between the two points?",
+      "options": [
+        "2",
+        "-2",
+        "14",
+        "-14"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Find the Difference:** To find the distance between two points on a number line, subtract one value from the other and take the absolute value.\n\n**Calculate:**\n• Distance = |8 - (-6)|\n• Subtracting a negative is the same as adding: |8 + 6|\n• Distance = |14| = 14\n\nThe distance between the two points is 14. Distance cannot be negative."
+    },
+    {
+      "id": 6,
+      "question": "Find the least common multiple (LCM) of 8 and 12.",
+      "options": [
+        "4",
+        "24",
+        "48",
+        "96"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Understand LCM:** The Least Common Multiple (LCM) is the smallest positive number that is a multiple of both numbers.\n\n**List Multiples of 8:** 8, 16, 24, 32, 40...\n\n**List Multiples of 12:** 12, 24, 36, 48...\n\n**Find the Smallest Common Number:** The first number that appears on both lists is 24."
+    },
+    {
+      "id": 7,
+      "question": "What is the greatest common factor (GCF) of 24 and 36?",
+      "options": [
+        "6",
+        "12",
+        "24",
+        "72"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Understand GCF:** The Greatest Common Factor (GCF) is the largest number that divides evenly into both numbers.\n\n**List Factors of 24:** 1, 2, 3, 4, 6, 8, 12, 24.\n\n**List Factors of 36:** 1, 2, 3, 4, 6, 9, 12, 18, 36.\n\n**Find the Largest Common Number:** The largest number that appears on both lists is 12."
+    },
+    {
+      "id": 8,
+      "question": "Which expression is equivalent to 15x - 25 when factored using the greatest common factor?",
+      "options": [
+        "5(3x - 5)",
+        "5(3x - 25)",
+        "15(x - 25)",
+        "x(15 - 25)"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Find the GCF:** Look at the terms 15x and 25. The greatest common factor of 15 and 25 is 5.\n\n**Factor Out the GCF:** Place the GCF (5) outside of parentheses.\n\n**Determine the Remaining Terms:** Divide each original term by the GCF.\n• 15x ÷ 5 = 3x\n• -25 ÷ 5 = -5\n\nThe factored expression is 5(3x - 5)."
+    },
+    {
+      "id": 9,
+      "question": "Evaluate 6³.",
+      "options": [
+        "18",
+        "36",
+        "180",
+        "216"
+      ],
+      "correctAnswer": 3,
+      "correctLetter": "D",
+      "explanation": "**Understand Exponents:** The expression 6³ means to multiply the base (6) by itself three times.\n\n**Perform the Multiplication:**\n• 6 × 6 × 6\n• 6 × 6 = 36\n• 36 × 6 = 216\n\nThe value of 6³ is 216."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is equivalent to √64?",
+      "options": [
+        "8",
+        "16",
+        "32",
+        "128"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Understand Square Roots:** The square root symbol (√) asks for the number that, when multiplied by itself, equals the number inside.\n\n**Find the Root:** We are looking for a number 'n' such that n × n = 64.\n• 8 × 8 = 64\n\nTherefore, the square root of 64 is 8."
+    },
+    {
+      "id": 11,
+      "question": "What is 2.5 x 10³ written in standard form?",
+      "options": [
+        "250",
+        "2,500",
+        "25,000",
+        "0.0025"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Understand Scientific Notation:** The exponent on the 10 tells you how many places to move the decimal point. A positive exponent means you move the decimal to the right to make the number larger.\n\n**Move the Decimal:** Move the decimal point in 2.5 three places to the right.\n• 2.5 -> 25. -> 250. -> 2,500.\n\nThe standard form is 2,500."
+    },
+    {
+      "id": 12,
+      "question": "Maria bought 2 notebooks for $2.25 each and a pack of pens for $3.50. She paid with a $10 bill. How much change did she receive?",
+      "options": [
+        "$2.00",
+        "$4.25",
+        "$5.75",
+        "$8.00"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Calculate Notebook Cost:** Find the total cost of the two notebooks.\n• 2 × $2.25 = $4.50\n\n**Calculate Total Cost:** Add the cost of the notebooks and the pens.\n• $4.50 + $3.50 = $8.00\n\n**Calculate Change:** Subtract the total cost from the amount paid.\n• $10.00 - $8.00 = $2.00"
+    },
+    {
+      "id": 13,
+      "question": "For what value of y is the expression 12 / (y - 3) undefined?",
+      "options": [
+        "-12",
+        "-3",
+        "0",
+        "3"
+      ],
+      "correctAnswer": 3,
+      "correctLetter": "D",
+      "explanation": "**Understand 'Undefined':** A fraction is undefined when its denominator (the bottom part) equals zero, as division by zero is not possible.\n\n**Set the Denominator to Zero:** To find the value that makes the expression undefined, set the denominator equal to zero and solve.\n• y - 3 = 0\n\n**Solve for y:** Add 3 to both sides.\n• y = 3\n\nWhen y = 3, the expression becomes 12/0, which is undefined."
+    },
+    {
+      "id": 14,
+      "question": "Simplify the expression: 4⁻²",
+      "options": [
+        "-8",
+        "-16",
+        "1/8",
+        "1/16"
+      ],
+      "correctAnswer": 3,
+      "correctLetter": "D",
+      "explanation": "**Understand Negative Exponents:** A negative exponent means to take the reciprocal of the base raised to the positive exponent. The rule is a⁻ⁿ = 1/aⁿ.\n\n**Apply the Rule:**\n• 4⁻² = 1 / 4²\n\n**Calculate the Result:**\n• 4² = 4 × 4 = 16\n• The expression simplifies to 1/16."
+    },
+    {
+      "id": 15,
+      "question": "Evaluate ³√(-8).",
+      "options": [
+        "2",
+        "-2",
+        "4",
+        "The value is not a real number."
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Understand Cube Roots:** The cube root symbol (³√) asks for the number that, when multiplied by itself three times, equals the number inside.\n\n**Find the Root:** We are looking for a number 'n' such that n × n × n = -8.\n• (-2) × (-2) = 4\n• 4 × (-2) = -8\n\nTherefore, the cube root of -8 is -2."
+    },
+    {
+      "id": 16,
+      "question": "A car travels 240 miles on 8 gallons of gasoline. What is the car's fuel efficiency in miles per gallon?",
+      "options": [
+        "24 miles per gallon",
+        "30 miles per gallon",
+        "32 miles per gallon",
+        "40 miles per gallon"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Find the Unit Rate:** \"Miles per gallon\" means you need to find out how many miles the car travels on ONE gallon. This is a unit rate, found by division.\n\n**Set up the Division:** Divide the total miles by the total gallons.\n• 240 miles ÷ 8 gallons\n\n**Calculate:**\n• 240 ÷ 8 = 30\n\nThe car's fuel efficiency is 30 miles per gallon."
+    },
+    {
+      "id": 17,
+      "question": "A recipe that makes 18 cookies requires 3 cups of flour. How many cups of flour are needed to make 24 cookies?",
+      "options": [
+        "4 cups",
+        "4.5 cups",
+        "5 cups",
+        "6 cups"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Set up a Proportion:** The ratio of cookies to flour must remain constant. Let 'x' be the unknown amount of flour.\n• (18 cookies) / (3 cups) = (24 cookies) / (x cups)\n• 18/3 = 24/x\n\n**Solve for x:** You can simplify the first fraction: 18/3 = 6.\n• 6 = 24/x\n• Multiply both sides by x: 6x = 24\n• Divide both sides by 6: x = 4\n\n4 cups of flour are needed."
+    },
+    {
+      "id": 18,
+      "question": "On a blueprint, 1 inch represents 4 feet. If a room is 3.5 inches long on the blueprint, what is the actual length of the room?",
+      "options": [
+        "12 feet",
+        "14 feet",
+        "16 feet",
+        "20 feet"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Use the Scale Factor:** The scale is 1 inch to 4 feet. To find the actual length, multiply the blueprint measurement by the scale factor.\n\n**Set up the Calculation:**\n• Actual Length = 3.5 inches × (4 feet / 1 inch)\n\n**Calculate:**\n• 3.5 × 4 = 14\n\nThe actual length of the room is 14 feet."
+    },
+    {
+      "id": 19,
+      "question": "A photograph that is 4 inches wide and 6 inches long is enlarged. If the new width is 10 inches, what is the new length?",
+      "options": [
+        "12 inches",
+        "15 inches",
+        "20 inches",
+        "24 inches"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Find the Scale Factor:** The enlargement is proportional. Find how much the width was scaled up.\n• Scale Factor = New Width / Original Width = 10 inches / 4 inches = 2.5\n\n**Apply the Scale Factor:** Multiply the original length by the same scale factor to find the new length.\n• New Length = Original Length × Scale Factor\n• New Length = 6 inches × 2.5 = 15 inches"
+    },
+    {
+      "id": 20,
+      "question": "What is 35% of 80?",
+      "options": [
+        "24",
+        "28",
+        "35",
+        "42"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Convert Percent to Decimal:** The word \"of\" in math usually means multiplication. First, convert the percentage to a decimal by dividing by 100.\n• 35% = 35 ÷ 100 = 0.35\n\n**Multiply:** Multiply the decimal by the number.\n• 0.35 × 80 = 28\n\n35% of 80 is 28."
+    },
+    {
+      "id": 21,
+      "question": "A shirt originally priced at $40 is on sale for 20% off. What is the sale price of the shirt?",
+      "options": [
+        "$8",
+        "$20",
+        "$32",
+        "$38"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Calculate the Discount Amount:** First, find the amount of the discount, which is 20% of $40.\n• Convert 20% to a decimal: 0.20\n• Discount = 0.20 × $40 = $8\n\n**Calculate the Sale Price:** Subtract the discount amount from the original price.\n• Sale Price = $40 - $8 = $32"
+    },
+    {
+      "id": 22,
+      "question": "A restaurant bill is $60. If you want to leave a 15% tip, what is the total amount you will pay?",
+      "options": [
+        "$60.15",
+        "$66.00",
+        "$69.00",
+        "$75.00"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Calculate the Tip Amount:** First, find the amount of the tip, which is 15% of $60.\n• Convert 15% to a decimal: 0.15\n• Tip = 0.15 × $60 = $9\n\n**Calculate the Total Amount:** Add the tip amount to the original bill.\n• Total Amount = $60 + $9 = $69"
+    },
+    {
+      "id": 23,
+      "question": "A city's population grew from 50,000 to 54,000 in one year. What was the percent increase in population?",
+      "options": [
+        "4%",
+        "7.4%",
+        "8%",
+        "40%"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Find the Amount of Increase:** Subtract the original population from the new population.\n• Increase = 54,000 - 50,000 = 4,000\n\n**Calculate the Percent Increase:** Use the formula: (Amount of Change / Original Amount) × 100%.\n• Percent Increase = (4,000 / 50,000) × 100%\n• 4,000 ÷ 50,000 = 0.08\n• 0.08 × 100% = 8%"
+    },
+    {
+      "id": 24,
+      "question": "A real estate agent earns a 3% commission on her sales. If she sells a house for $250,000, how much commission does she earn?",
+      "options": [
+        "$750",
+        "$3,000",
+        "$7,500",
+        "$25,000"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Calculate the Commission:** Commission is a percentage of a sale. We need to find 3% of $250,000.\n\n**Convert Percent to Decimal:**\n• 3% = 0.03\n\n**Multiply:**\n• Commission = 0.03 × $250,000 = $7,500"
+    },
+    {
+      "id": 25,
+      "question": "Mark invests $2,000 in an account that earns 4% simple interest per year. How much interest will he have earned after 3 years?",
+      "options": [
+        "$80",
+        "$120",
+        "$240",
+        "$2,240"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Use the Simple Interest Formula:** The formula is I = Prt.\n\n**Identify the Values:**\n• P (Principal) = $2,000\n• r (Rate as a decimal) = 4% = 0.04\n• t (Time in years) = 3\n\n**Substitute and Calculate:**\n• I = $2,000 × 0.04 × 3\n• I = $80 × 3\n• I = $240"
+    },
+    {
+      "id": 26,
+      "question": "The price of a computer dropped from $800 to $600. What was the percent decrease in price?",
+      "options": [
+        "20%",
+        "25%",
+        "33.3%",
+        "200%"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Find the Amount of Decrease:** Subtract the new price from the original price.\n• Decrease = $800 - $600 = $200\n\n**Calculate the Percent Decrease:** Use the formula: (Amount of Change / Original Amount) × 100%.\n• Percent Decrease = ($200 / $800) × 100%\n• $200 ÷ $800 = 0.25\n• 0.25 × 100% = 25%"
+    },
+    {
+      "id": 27,
+      "question": "18 is what percent of 40?",
+      "options": [
+        "18%",
+        "22%",
+        "40%",
+        "45%"
+      ],
+      "correctAnswer": 3,
+      "correctLetter": "D",
+      "explanation": "**Set up the Relationship:** This question uses the relationship: Part / Whole = Percent.\n\n**Identify the Part and Whole:** The part is 18, and the whole it's being compared to is 40.\n\n**Divide and Convert:**\n• 18 ÷ 40 = 0.45\n• To convert the decimal to a percent, multiply by 100: 0.45 × 100 = 45%\n\n18 is 45% of 40."
+    },
+    {
+      "id": 28,
+      "question": "A map has a scale where 2 centimeters represents 75 kilometers. If two cities are 6 centimeters apart on the map, what is the actual distance between them?",
+      "options": [
+        "150 km",
+        "225 km",
+        "300 km",
+        "450 km"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Set up a Proportion:** The ratio of map distance to actual distance is constant. Let 'x' be the unknown actual distance.\n• (2 cm) / (75 km) = (6 cm) / (x km)\n\n**Solve for x:** Notice that the map distance (6 cm) is 3 times the scale distance (2 cm). So, the actual distance must also be 3 times its scale counterpart.\n• x = 75 km × 3\n• x = 225 km"
+    },
+    {
+      "id": 29,
+      "question": "A model airplane is built to a scale of 1 inch representing 3 feet. If the wingspan of the actual airplane is 36 feet, what is the wingspan of the model?",
+      "options": [
+        "6 inches",
+        "12 inches",
+        "36 inches",
+        "108 inches"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Set up a Proportion:** Let 'x' be the model's wingspan in inches. The ratio of model length to actual length is constant.\n• (1 inch) / (3 feet) = (x inches) / (36 feet)\n\n**Solve for x:** To get from the denominator 3 to 36, you multiply by 12. Do the same to the numerator.\n• x = 1 inch × 12 = 12 inches"
+    },
+    {
+      "id": 30,
+      "question": "A store buys a jacket for $50 and marks it up by 60% to determine the selling price. What is the selling price of the jacket?",
+      "options": [
+        "$30",
+        "$53",
+        "$80",
+        "$110"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Calculate the Markup Amount:** Find the amount of the markup, which is 60% of the cost price ($50).\n• Convert 60% to a decimal: 0.60\n• Markup = 0.60 × $50 = $30\n\n**Calculate the Selling Price:** Add the markup amount to the original cost.\n• Selling Price = $50 + $30 = $80"
+    },
+    {
+      "id": 31,
+      "question": "What is the area of a rectangle with a length of 12 meters and a width of 7 meters?",
+      "options": [
+        "19 square meters",
+        "38 square meters",
+        "84 square meters",
+        "168 square meters"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Use the Area Formula:** The formula for the area of a rectangle is Area = length × width (A = lw).\n\n**Substitute and Calculate:**\n• A = 12 m × 7 m\n• A = 84 square meters (m²)"
+    },
+    {
+      "id": 32,
+      "question": "A triangle has a base of 10 inches and a height of 8 inches. What is its area?",
+      "options": [
+        "18 square inches",
+        "40 square inches",
+        "80 square inches",
+        "160 square inches"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Use the Area Formula:** The formula for the area of a triangle is Area = ½ × base × height (A = ½bh).\n\n**Substitute and Calculate:**\n• A = ½ × 10 in × 8 in\n• A = 5 in × 8 in\n• A = 40 square inches (in²)"
+    },
+    {
+      "id": 33,
+      "question": "A circular garden has a radius of 5 feet. What is its circumference? (Use π ≈ 3.14)",
+      "options": [
+        "15.7 feet",
+        "31.4 feet",
+        "78.5 feet",
+        "157 feet"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Use the Circumference Formula:** The formula for circumference using the radius (r) is C = 2πr.\n\n**Substitute and Calculate:**\n• C = 2 × 3.14 × 5 ft\n• C = 10 × 3.14 ft\n• C = 31.4 ft"
+    },
+    {
+      "id": 34,
+      "question": "What is the area of a circle with a diameter of 20 centimeters? (Use π ≈ 3.14)",
+      "options": [
+        "62.8 cm²",
+        "125.6 cm²",
+        "314 cm²",
+        "1256 cm²"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Find the Radius:** The area formula uses the radius, which is half the diameter.\n• Radius (r) = 20 cm / 2 = 10 cm\n\n**Use the Area Formula:** The formula is A = πr².\n\n**Substitute and Calculate:** Remember to apply the exponent first.\n• A = 3.14 × (10 cm)²\n• A = 3.14 × 100 cm²\n• A = 314 cm²"
+    },
+    {
+      "id": 35,
+      "question": "A trapezoid has parallel bases of 6 inches and 10 inches and a height of 5 inches. What is the area of the trapezoid?",
+      "options": [
+        "40 square inches",
+        "50 square inches",
+        "80 square inches",
+        "300 square inches"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Use the Trapezoid Area Formula:** The formula is A = ½h(b₁ + b₂).\n\n**Identify the Values:**\n• h = 5 inches\n• b₁ = 6 inches\n• b₂ = 10 inches\n\n**Substitute and Calculate:** Follow the order of operations (parentheses first).\n• A = ½ × 5 × (6 + 10)\n• A = ½ × 5 × 16\n• A = ½ × 80 = 40 square inches"
+    },
+    {
+      "id": 36,
+      "question": "A shape is made of a 5 ft by 5 ft square attached to a triangle with a base of 5 ft and a height of 4 ft. What is the total area of this composite figure?",
+      "options": [
+        "35 sq ft",
+        "45 sq ft",
+        "50 sq ft",
+        "110 sq ft"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Break Down the Shape:** To find the total area, calculate the area of the square and the triangle separately, then add them together.\n\n**Calculate Area of the Square:**\n• Area_square = side² = 5² = 25 sq ft\n\n**Calculate Area of the Triangle:**\n• Area_triangle = ½bh = ½ × 5 ft × 4 ft = 10 sq ft\n\n**Add the Areas:**\n• Total Area = 25 sq ft + 10 sq ft = 35 sq ft"
+    },
+    {
+      "id": 37,
+      "question": "A right triangle has legs with lengths of 6 cm and 8 cm. What is the length of the hypotenuse?",
+      "options": [
+        "10 cm",
+        "12 cm",
+        "14 cm",
+        "100 cm"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Use the Pythagorean Theorem:** For a right triangle, a² + b² = c², where 'a' and 'b' are the legs and 'c' is the hypotenuse.\n\n**Substitute the Leg Lengths:**\n• 6² + 8² = c²\n\n**Calculate:**\n• 36 + 64 = c²\n• 100 = c²\n\n**Solve for c:** Take the square root of both sides.\n• c = √100 = 10 cm"
+    },
+    {
+      "id": 38,
+      "question": "A 13-foot ladder is leaning against a wall. The bottom of the ladder is 5 feet away from the base of the wall. How high up the wall does the ladder reach?",
+      "options": [
+        "8 feet",
+        "12 feet",
+        "14 feet",
+        "18 feet"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Visualize the Right Triangle:** The ladder is the hypotenuse (c=13), the distance from the wall is one leg (b=5), and the height on the wall is the other leg (a).\n\n**Use the Pythagorean Theorem:** a² + b² = c²\n\n**Substitute the Known Values:**\n• a² + 5² = 13²\n\n**Calculate and Solve for a:**\n• a² + 25 = 169\n• a² = 169 - 25 = 144\n• a = √144 = 12 feet"
+    },
+    {
+      "id": 39,
+      "question": "A rectangular box has a length of 6 inches, a width of 4 inches, and a height of 3 inches. What is its volume?",
+      "options": [
+        "13 cubic inches",
+        "24 cubic inches",
+        "36 cubic inches",
+        "72 cubic inches"
+      ],
+      "correctAnswer": 3,
+      "correctLetter": "D",
+      "explanation": "**Use the Volume Formula:** The volume of a rectangular prism (a box) is V = length × width × height (V = lwh).\n\n**Substitute and Calculate:**\n• V = 6 in × 4 in × 3 in\n• V = 24 in² × 3 in\n• V = 72 cubic inches (in³)"
+    },
+    {
+      "id": 40,
+      "question": "A soup can is a cylinder with a radius of 2 inches and a height of 5 inches. What is the volume of the can? (Use π ≈ 3.14)",
+      "options": [
+        "31.4 in³",
+        "62.8 in³",
+        "78.5 in³",
+        "157 in³"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Use the Cylinder Volume Formula:** The formula is V = πr²h.\n\n**Substitute and Calculate:** Remember to apply the exponent first.\n• V = 3.14 × (2 in)² × 5 in\n• V = 3.14 × 4 in² × 5 in\n• V = 12.56 in² × 5 in\n• V = 62.8 in³"
+    },
+    {
+      "id": 41,
+      "question": "What is the surface area of a rectangular prism with length 5 m, width 2 m, and height 4 m?",
+      "options": [
+        "40 m²",
+        "68 m²",
+        "76 m²",
+        "88 m²"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Use the Surface Area Formula:** The formula is SA = 2lw + 2lh + 2wh.\n\n**Calculate Each Face Pair:**\n• Top and Bottom: 2lw = 2 × 5 × 2 = 20 m²\n• Front and Back: 2lh = 2 × 5 × 4 = 40 m²\n• Sides: 2wh = 2 × 2 × 4 = 16 m²\n\n**Add the Areas:**\n• SA = 20 + 40 + 16 = 76 m²"
+    },
+    {
+      "id": 42,
+      "question": "A right prism has a triangular base with an area of 20 cm². If the prism's height is 15 cm, what is its volume?",
+      "options": [
+        "150 cm³",
+        "300 cm³",
+        "400 cm³",
+        "600 cm³"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Use the Prism Volume Formula:** The volume of any prism is V = Bh, where B is the area of the base and h is the height.\n\n**Substitute Given Values:**\n• B = 20 cm²\n• h = 15 cm\n\n**Calculate:**\n• V = 20 cm² × 15 cm = 300 cm³"
+    },
+    {
+      "id": 43,
+      "question": "A cone has a radius of 3 feet and a height of 10 feet. What is its volume? (Use π ≈ 3.14)",
+      "options": [
+        "31.4 ft³",
+        "94.2 ft³",
+        "188.4 ft³",
+        "282.6 ft³"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Use the Cone Volume Formula:** The formula is V = (1/3)πr²h.\n\n**Substitute and Calculate:**\n• V = (1/3) × 3.14 × (3 ft)² × 10 ft\n• V = (1/3) × 3.14 × 9 ft² × 10 ft\n• It is easiest to multiply (1/3) by 9 first: (1/3) × 9 = 3.\n• V = 3.14 × 3 × 10\n• V = 9.42 × 10 = 94.2 ft³"
+    },
+    {
+      "id": 44,
+      "question": "What is the volume of a sphere with a radius of 3 meters? (Use π ≈ 3.14)",
+      "options": [
+        "37.68 m³",
+        "56.52 m³",
+        "113.04 m³",
+        "28.26 m³"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Use the Sphere Volume Formula:** The formula is V = (4/3)πr³.\n\n**Substitute and Calculate:** Remember to cube the radius first (r³ = 3×3×3 = 27).\n• V = (4/3) × 3.14 × (3 m)³\n• V = (4/3) × 3.14 × 27 m³\n• It is easiest to multiply (1/3) by 27 first: (1/3) × 27 = 9.\n• V = 4 × 3.14 × 9\n• V = 12.56 × 9 = 113.04 m³"
+    },
+    {
+      "id": 45,
+      "question": "An ice cream cone is composed of a cone with a volume of 12 in³ and a half-sphere of ice cream on top with a volume of 6 in³. What is the total volume of the dessert?",
+      "options": [
+        "6 in³",
+        "18 in³",
+        "36 in³",
+        "72 in³"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Find Total Volume of a Composite Figure:** To find the total volume, simply add the volumes of the individual parts.\n\n**Add the Given Volumes:**\n• Total Volume = Volume of Cone + Volume of Half-Sphere\n• Total Volume = 12 in³ + 6 in³ = 18 in³"
+    },
+    {
+      "id": 46,
+      "question": "The area of a rectangular garden is 56 square feet. If the width of the garden is 7 feet, what is its length?",
+      "options": [
+        "8 feet",
+        "9 feet",
+        "21 feet",
+        "49 feet"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Use the Area Formula:** The formula for the area of a rectangle is A = lw.\n\n**Work Backward to Find Length:** We are given the area (A) and the width (w), so we can solve for the length (l).\n• 56 = l × 7\n\n**Solve for l:** Divide both sides by 7.\n• l = 56 ÷ 7 = 8\n\nThe length of the garden is 8 feet."
+    },
+    {
+      "id": 47,
+      "question": "A triangle has a perimeter of 30 inches. Two of its sides measure 9 inches and 12 inches. What is the length of the third side?",
+      "options": [
+        "9 inches",
+        "10 inches",
+        "11 inches",
+        "21 inches"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Use the Perimeter Concept:** The perimeter is the sum of all side lengths.\n\n**Add the Known Sides:**\n• 9 inches + 12 inches = 21 inches\n\n**Find the Missing Side:** Subtract the sum of the known sides from the total perimeter.\n• 30 inches - 21 inches = 9 inches\n\nThe length of the third side is 9 inches."
+    },
+    {
+      "id": 48,
+      "question": "The circumference of a circle is 47.1 feet. What is its radius? (Use π ≈ 3.14)",
+      "options": [
+        "7.5 feet",
+        "10 feet",
+        "15 feet",
+        "23.55 feet"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Use the Circumference Formula:** The formula is C = 2πr.\n\n**Work Backward to Find Radius:** We are given the circumference (C) and can solve for the radius (r).\n• 47.1 = 2 × 3.14 × r\n\n**Solve for r:**\n• First, simplify the right side: 47.1 = 6.28 × r\n• Divide both sides by 6.28: r = 47.1 ÷ 6.28 = 7.5\n\nThe radius is 7.5 feet."
+    },
+    {
+      "id": 49,
+      "question": "A right triangle has a hypotenuse of 26 inches and one leg of 10 inches. What is the length of the other leg?",
+      "options": [
+        "16 inches",
+        "24 inches",
+        "28 inches",
+        "36 inches"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Use the Pythagorean Theorem:** The formula is a² + b² = c², where c is the hypotenuse.\n\n**Substitute Known Values:** Let the known leg be 'a' and the unknown leg be 'b'.\n• 10² + b² = 26²\n\n**Calculate and Solve for b:**\n• 100 + b² = 676\n• b² = 676 - 100 = 576\n• b = √576 = 24\n\nThe length of the other leg is 24 inches."
+    },
+    {
+      "id": 50,
+      "question": "A rectangular prism has a volume of 120 cubic feet. Its length is 8 feet and its height is 3 feet. What is its width?",
+      "options": [
+        "4 feet",
+        "5 feet",
+        "6 feet",
+        "24 feet"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Use the Volume Formula:** The formula is V = lwh.\n\n**Work Backward to Find Width:** We are given V, l, and h, so we can solve for w.\n• 120 = 8 × w × 3\n\n**Solve for w:**\n• First, simplify the right side: 120 = 24 × w\n• Divide both sides by 24: w = 120 ÷ 24 = 5\n\nThe width is 5 feet."
+    },
+    {
+      "id": 51,
+      "question": "A survey about favorite colors yielded the following results: Red: 10 votes, Blue: 20 votes, Green: 5 votes, and Yellow: 15 votes. How many more people chose Blue than chose Green?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Read the Data:** Find the number of votes for Blue and Green.\n• Votes for Blue = 20\n• Votes for Green = 5\n\n**Find the Difference:** The phrase \"how many more\" means to subtract.\n• 20 - 5 = 15\n\n15 more people chose Blue than Green."
+    },
+    {
+      "id": 52,
+      "question": "The test scores for a student were 88, 92, 85, 95, and 85. What is the mean (average) test score?",
+      "options": [
+        "85",
+        "88",
+        "89",
+        "92"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Find the Sum:** Add all the test scores together.\n• 88 + 92 + 85 + 95 + 85 = 445\n\n**Divide by the Count:** There are 5 test scores. Divide the sum by 5.\n• Mean = 445 ÷ 5 = 89\n\nThe mean test score is 89."
+    },
+    {
+      "id": 53,
+      "question": "Using the test scores 88, 92, 85, 95, and 85, what is the median score?",
+      "options": [
+        "85",
+        "88",
+        "89",
+        "92"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Order the Data:** The median is the middle number in an ordered set. First, list the scores from least to greatest.\n• 85, 85, 88, 92, 95\n\n**Find the Middle Number:** In this list of 5 numbers, the third number is the one in the middle.\n\nThe median score is 88."
+    },
+    {
+      "id": 54,
+      "question": "What is the range of the following set of numbers: 12, 25, 8, 32, 15?",
+      "options": [
+        "8",
+        "18.4",
+        "24",
+        "32"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Understand Range:** The range is the difference between the highest and lowest values in a data set.\n\n**Identify Highest and Lowest:**\n• Highest value = 32\n• Lowest value = 8\n\n**Subtract:**\n• Range = 32 - 8 = 24"
+    },
+    {
+      "id": 55,
+      "question": "Maria has scores of 80, 85, and 90 on her first three math tests. What score does she need on her fourth test to have a mean score of 86?",
+      "options": [
+        "86",
+        "87",
+        "88",
+        "89"
+      ],
+      "correctAnswer": 3,
+      "correctLetter": "D",
+      "explanation": "**Find the Total Sum Needed:** Maria wants a mean of 86 over 4 tests. Multiply the desired mean by the number of tests.\n• Total Sum = 86 × 4 = 344\n\n**Find the Current Sum:** Add the scores she already has.\n• 80 + 85 + 90 = 255\n\n**Find the Missing Score:** Subtract the current sum from the total sum needed.\n• Missing Score = 344 - 255 = 89"
+    },
+    {
+      "id": 56,
+      "question": "There are 4 candidates running for president of a club and 3 candidates for vice-president. How many different ways can the two positions be filled?",
+      "options": [
+        "3",
+        "4",
+        "7",
+        "12"
+      ],
+      "correctAnswer": 3,
+      "correctLetter": "D",
+      "explanation": "**Use the Fundamental Counting Principle:** To find the total number of ways for multiple independent choices, multiply the number of options for each choice.\n\n**Multiply the Options:**\n• Options for President = 4\n• Options for Vice-President = 3\n• Total Ways = 4 × 3 = 12\n\nThere are 12 different ways the positions can be filled."
+    },
+    {
+      "id": 57,
+      "question": "A pizza place offers 4 different toppings. How many different combinations of 2 toppings can be chosen?",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "16"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Understand Combinations:** In a combination, the order of selection does not matter. Let the toppings be T1, T2, T3, and T4.\n\n**List the Possibilities:** Systematically list all unique pairs.\n• T1 with T2, T1 with T3, T1 with T4 (3 pairs)\n• T2 with T3, T2 with T4 (2 more pairs)\n• T3 with T4 (1 more pair)\n\n**Count the Pairs:**\n• 3 + 2 + 1 = 6\n\nThere are 6 different combinations of 2 toppings."
+    },
+    {
+      "id": 58,
+      "question": "A bag contains 4 red marbles and 6 blue marbles. What is the probability of randomly selecting a red marble?",
+      "options": [
+        "1/4",
+        "2/5",
+        "3/5",
+        "2/3"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Use the Probability Formula:** Probability = (Favorable Outcomes) / (Total Outcomes).\n\n**Count the Outcomes:**\n• Favorable Outcomes (red marbles) = 4\n• Total Outcomes (all marbles) = 4 + 6 = 10\n\n**Calculate and Simplify:**\n• Probability = 4 / 10\n• Simplify the fraction by dividing the numerator and denominator by 2: 2/5"
+    },
+    {
+      "id": 59,
+      "question": "A coin is flipped and a standard six-sided die is rolled. What is the probability of getting tails on the coin and a 3 on the die?",
+      "options": [
+        "1/12",
+        "1/8",
+        "1/6",
+        "1/4"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Find Individual Probabilities:** These are independent events. First, find the probability of each event happening separately.\n• Probability of tails: P(tails) = 1/2\n• Probability of rolling a 3: P(3) = 1/6\n\n**Multiply the Probabilities:** To find the probability of both events happening, multiply their individual probabilities.\n• P(tails AND 3) = P(tails) × P(3) = 1/2 × 1/6 = 1/12"
+    },
+    {
+      "id": 60,
+      "question": "A class grade is determined by a midterm worth 40% and a final exam worth 60%. If a student scores 80 on the midterm and 90 on the final, what is their weighted average?",
+      "options": [
+        "84",
+        "85",
+        "86",
+        "88"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Calculate Weighted Scores:** Multiply each score by its weight (percentage) and then add the results.\n\n**Calculate Midterm Part:**\n• 40% of 80 = 0.40 × 80 = 32\n\n**Calculate Final Exam Part:**\n• 60% of 90 = 0.60 × 90 = 54\n\n**Add the Weighted Scores:**\n• Final Grade = 32 + 54 = 86"
+    },
+    {
+      "id": 61,
+      "question": "What is the mode of the following data set: 5, 8, 12, 5, 9, 10, 8, 5?",
+      "options": [
+        "5",
+        "8",
+        "9",
+        "12"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Understand Mode:** The mode is the number that appears most frequently in a data set.\n\n**Count the Occurrences:**\n• The number 5 appears 3 times.\n• The number 8 appears 2 times.\n• All other numbers appear only once.\n\nSince 5 appears most often, it is the mode."
+    },
+    {
+      "id": 62,
+      "question": "Four people are in a race. How many different ways can they finish in 1st, 2nd, and 3rd place?",
+      "options": [
+        "12",
+        "24",
+        "64",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Use the Counting Principle:** This is a permutation because order matters.\n\n**Count Options for Each Position:**\n• For 1st place, there are 4 possible people.\n• After 1st is chosen, there are 3 people left for 2nd place.\n• After 2nd is chosen, there are 2 people left for 3rd place.\n\n**Multiply the Possibilities:**\n• Total Arrangements = 4 × 3 × 2 = 24"
+    },
+    {
+      "id": 63,
+      "question": "A spinner is divided into 8 equal sections, numbered 1 through 8. What is the probability that the spinner will land on an even number?",
+      "options": [
+        "1/8",
+        "1/4",
+        "1/2",
+        "3/4"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Use the Probability Formula:** Probability = (Favorable Outcomes) / (Total Outcomes).\n\n**Count the Outcomes:**\n• Total Outcomes = 8 (sections 1 through 8).\n• Favorable Outcomes (even numbers) = 2, 4, 6, 8. There are 4 even numbers.\n\n**Calculate and Simplify:**\n• Probability = 4 / 8 = 1/2"
+    },
+    {
+      "id": 64,
+      "question": "A scatter plot shows that as the number of hours spent studying increases, test scores also tend to increase. What kind of correlation does this describe?",
+      "options": [
+        "Positive correlation",
+        "Negative correlation",
+        "No correlation",
+        "Constant correlation"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Define Positive Correlation:** A positive correlation exists when two variables move in the same direction. As one variable increases, the other variable also tends to increase. The points on the graph trend upwards from left to right.\n\n**Apply to the Scenario:** Since both hours studying and test scores are increasing together, this is a positive correlation."
+    },
+    {
+      "id": 65,
+      "question": "A bag contains 3 red marbles, 2 blue marbles, and 5 green marbles. What is the probability of NOT drawing a blue marble?",
+      "options": [
+        "1/5",
+        "1/4",
+        "4/5",
+        "9/10"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Count the Outcomes:**\n• Total Marbles = 3 (red) + 2 (blue) + 5 (green) = 10.\n• Favorable Outcomes (NOT blue) = 3 (red) + 5 (green) = 8.\n\n**Calculate the Probability:**\n• P(not blue) = (Number of non-blue marbles) / (Total number of marbles)\n• P(not blue) = 8 / 10\n\n**Simplify the Fraction:**\n• 8/10 simplifies to 4/5."
+    },
+    {
+      "id": 66,
+      "question": "Simplify the expression: (5x + 8) + (3x - 2)",
+      "options": [
+        "8x + 6",
+        "8x + 10",
+        "2x + 6",
+        "2x + 10"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Combine Like Terms:** To simplify, group and combine terms with the same variable and constant terms.\n\n**Combine the x-terms:**\n• 5x + 3x = 8x\n\n**Combine the constant terms:**\n• 8 + (-2) = 6\n\nThe simplified expression is 8x + 6."
+    },
+    {
+      "id": 67,
+      "question": "Evaluate the expression 3y + 7 when y = -4.",
+      "options": [
+        "-5",
+        "5",
+        "19",
+        "-19"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Substitute the Value:** Replace the variable 'y' with -4 in the expression.\n• 3(-4) + 7\n\n**Calculate:** Follow the order of operations (multiplication first).\n• 3 × (-4) = -12\n• -12 + 7 = -5"
+    },
+    {
+      "id": 68,
+      "question": "Write a mathematical expression for the phrase \"ten more than the product of four and a number x.\"",
+      "options": [
+        "10x + 4",
+        "4x + 10",
+        "10(4x)",
+        "4(x + 10)"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Translate the Phrase:** Break down the phrase into mathematical parts.\n• \"the product of four and a number x\" translates to 4 × x, or 4x.\n• \"ten more than\" that product means you add 10.\n\n**Combine the Parts:** The final expression is 4x + 10."
+    },
+    {
+      "id": 69,
+      "question": "Multiply the polynomials: (x + 4)(x + 5)",
+      "options": [
+        "x² + 9x + 20",
+        "x² + 20x + 9",
+        "2x + 9",
+        "x² + 20"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Use the FOIL Method:** Multiply the First, Outer, Inner, and Last terms.\n• **F**irst: x × x = x²\n• **O**uter: x × 5 = 5x\n• **I**nner: 4 × x = 4x\n• **L**ast: 4 × 5 = 20\n\n**Combine Like Terms:** Add the results together and combine the middle terms.\n• x² + 5x + 4x + 20\n• x² + 9x + 20"
+    },
+    {
+      "id": 70,
+      "question": "Factor the polynomial: x² - 49",
+      "options": [
+        "(x - 7)(x - 7)",
+        "(x + 7)(x - 7)",
+        "(x + 7)(x + 7)",
+        "(x - 49)(x + 1)"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Recognize the Pattern:** This is a \"Difference of Squares\" because it involves the subtraction of two perfect squares (x² and 49 = 7²).\n\n**Apply the Rule:** The formula for factoring a² - b² is (a + b)(a - b).\n\n**Identify 'a' and 'b':**\n• a = √x² = x\n• b = √49 = 7\n\n**Write the Factored Form:**\n• (x + 7)(x - 7)"
+    },
+    {
+      "id": 71,
+      "question": "Evaluate the polynomial 2x² - 5x + 3 when x = 3.",
+      "options": [
+        "6",
+        "18",
+        "24",
+        "36"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Substitute the Value:** Replace every 'x' with 3.\n• 2(3)² - 5(3) + 3\n\n**Follow Order of Operations (PEMDAS):**\n• Exponents first: 3² = 9. The expression becomes 2(9) - 5(3) + 3.\n• Multiplication next: 2(9) = 18 and 5(3) = 15. The expression becomes 18 - 15 + 3.\n• Add/Subtract from left to right: 18 - 15 = 3, then 3 + 3 = 6."
+    },
+    {
+      "id": 72,
+      "question": "A rectangle has a width of w and a length that is 3 units longer than its width. Which expression represents the area of the rectangle?",
+      "options": [
+        "w + (w+3)",
+        "2w + 2(w+3)",
+        "w(w+3)",
+        "3w²"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Define the Dimensions:**\n• Width = w\n• Length = w + 3\n\n**Use the Area Formula:** The area of a rectangle is Area = Length × Width.\n\n**Substitute the Expressions:**\n• Area = (w + 3) × w\n• This is written as w(w + 3)."
+    },
+    {
+      "id": 73,
+      "question": "Simplify the rational expression: (5/a) + (2/a)",
+      "options": [
+        "7/2a",
+        "10/a²",
+        "7/a",
+        "10/2a"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Check for Common Denominators:** The two fractions already have a common denominator, 'a'.\n\n**Add the Numerators:** When denominators are the same, simply add the numerators.\n• 5 + 2 = 7\n\n**Keep the Denominator:** The denominator stays the same.\n• The result is 7/a."
+    },
+    {
+      "id": 74,
+      "question": "Divide the polynomials: (x² + 7x + 10) / (x + 5)",
+      "options": [
+        "x + 2",
+        "x + 5",
+        "x + 7",
+        "x + 10"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Factor the Numerator:** Factor the trinomial x² + 7x + 10. Look for two numbers that multiply to 10 and add to 7. The numbers are 2 and 5.\n• x² + 7x + 10 = (x + 2)(x + 5)\n\n**Rewrite and Cancel:** Rewrite the problem with the factored numerator.\n• [(x + 2)(x + 5)] / (x + 5)\n\n**Simplify:** The (x + 5) term in the numerator and denominator cancels out, leaving x + 2."
+    },
+    {
+      "id": 75,
+      "question": "Expand the expression: 4(3y - 2)",
+      "options": [
+        "12y - 2",
+        "7y - 8",
+        "12y - 8",
+        "43y - 42"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Use the Distributive Property:** Multiply the term outside the parentheses (4) by each term inside.\n\n**Multiply Each Term:**\n• 4 × 3y = 12y\n• 4 × (-2) = -8\n\nThe expanded expression is 12y - 8."
+    },
+    {
+      "id": 76,
+      "question": "Solve for x: 5x - 7 = 28",
+      "options": [
+        "x = 4.2",
+        "x = 5",
+        "x = 6",
+        "x = 7"
+      ],
+      "correctAnswer": 3,
+      "correctLetter": "D",
+      "explanation": "**Isolate the x-term:** To get the term with x by itself, add 7 to both sides of the equation.\n• 5x - 7 + 7 = 28 + 7\n• 5x = 35\n\n**Solve for x:** Divide both sides by 5.\n• x = 35 / 5\n• x = 7"
+    },
+    {
+      "id": 77,
+      "question": "A taxi service charges a flat fee of $3 plus $2 per mile. If the total cost of a ride was $21, how many miles was the ride?",
+      "options": [
+        "8 miles",
+        "9 miles",
+        "10.5 miles",
+        "12 miles"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Set up the Equation:** Let 'm' be the number of miles. The total cost ($21) equals the flat fee ($3) plus the per-mile cost ($2m).\n• 21 = 3 + 2m\n\n**Solve for m:**\n• Subtract the flat fee from the total cost: 21 - 3 = 18. Now, 18 = 2m.\n• Divide by the per-mile cost: m = 18 / 2 = 9.\n\nThe ride was 9 miles long."
+    },
+    {
+      "id": 78,
+      "question": "Solve the system of equations:\ny = 2x + 1\ny = 3x - 1",
+      "options": [
+        "(2, 5)",
+        "(1, 3)",
+        "(5, 2)",
+        "(-1, 1)"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Use the Substitution Method:** Since both equations are solved for y, set the expressions for y equal to each other.\n• 2x + 1 = 3x - 1\n\n**Solve for x:**\n• Subtract 2x from both sides: 1 = x - 1\n• Add 1 to both sides: 2 = x\n\n**Solve for y:** Substitute x = 2 into either original equation. Using the first one:\n• y = 2(2) + 1\n• y = 4 + 1 = 5\n\nThe solution is the point (2, 5)."
+    },
+    {
+      "id": 79,
+      "question": "At a concert, adult tickets cost $10 and child tickets cost $5. A total of 100 tickets were sold, and the total revenue was $800. Which system of equations represents this situation, where A is the number of adult tickets and C is the number of child tickets?",
+      "options": [
+        "A + C = 100; 10A + 5C = 800",
+        "A + C = 800; 10A + 5C = 100",
+        "15(A+C) = 800; A + C = 100",
+        "A - C = 100; 10A - 5C = 800"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Create the 'Count' Equation:** The total number of tickets is 100. This is the sum of adult (A) and child (C) tickets.\n• Equation 1: A + C = 100\n\n**Create the 'Money' Equation:** The total revenue is $800. This comes from $10 for each adult ticket (10A) and $5 for each child ticket (5C).\n• Equation 2: 10A + 5C = 800\n\nThe correct system combines these two equations."
+    },
+    {
+      "id": 80,
+      "question": "Solve the inequality: 3x + 5 > 20",
+      "options": [
+        "x > 5",
+        "x < 5",
+        "x > 8.33",
+        "x < 8.33"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Isolate the x-term:** Subtract 5 from both sides of the inequality.\n• 3x + 5 - 5 > 20 - 5\n• 3x > 15\n\n**Solve for x:** Divide both sides by 3. Since we are dividing by a positive number, the inequality sign stays the same.\n• x > 5"
+    },
+    {
+      "id": 81,
+      "question": "Which number line correctly graphs the solution to the inequality x ≤ -2?",
+      "options": [
+        "A number line with a closed circle at -2 and shading to the right.",
+        "A number line with an open circle at -2 and shading to the right.",
+        "A number line with a closed circle at -2 and shading to the left.",
+        "A number line with an open circle at -2 and shading to the left."
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Analyze the Symbol (≤):** The symbol means \"less than or equal to.\"\n\n**Determine the Circle Type:** The \"or equal to\" part (the line underneath) means the number -2 is included in the solution. This requires a closed (filled-in) circle.\n\n**Determine the Shading Direction:** The \"less than\" part (<) means the solution includes all numbers smaller than -2. On a number line, smaller numbers are to the left."
+    },
+    {
+      "id": 82,
+      "question": "A student needs to score at least 90 on a test. If the test has 50 questions worth 2 points each, and the student gets 5 questions wrong, what is the student's score?",
+      "options": [
+        "85",
+        "90",
+        "95",
+        "100"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Find the Number of Correct Answers:**\n• Total questions = 50\n• Wrong answers = 5\n• Correct answers = 50 - 5 = 45\n\n**Calculate the Score:** Multiply the number of correct answers by the point value per question.\n• Score = 45 × 2 = 90\n\nThe student's score is 90, which meets the \"at least 90\" requirement."
+    },
+    {
+      "id": 83,
+      "question": "Use the quadratic formula to solve x² - 5x + 6 = 0. What are the solutions?",
+      "options": [
+        "x = 2 and x = 3",
+        "x = -2 and x = -3",
+        "x = 1 and x = 6",
+        "x = -1 and x = -6"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Factor the Equation (Shortcut):** While the quadratic formula works, factoring is often faster. Look for two numbers that multiply to +6 and add to -5. The numbers are -2 and -3.\n• The factored form is (x - 2)(x - 3) = 0.\n\n**Solve for x:** Set each factor equal to zero.\n• If x - 2 = 0, then x = 2.\n• If x - 3 = 0, then x = 3.\n\nThe solutions are x = 2 and x = 3."
+    },
+    {
+      "id": 84,
+      "question": "The discriminant (b² - 4ac) of a quadratic equation is -9. How many real solutions does the equation have?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Understand the Discriminant:** The value of the discriminant determines the number of real solutions a quadratic equation has.\n\n**Apply the Rules:**\n• If b² - 4ac > 0 (positive), there are 2 real solutions.\n• If b² - 4ac = 0, there is 1 real solution.\n• If b² - 4ac < 0 (negative), there are 0 real solutions.\n\nSince the discriminant is -9 (negative), there are no real solutions."
+    },
+    {
+      "id": 85,
+      "question": "Solve the quadratic equation by factoring: x² + 3x - 10 = 0",
+      "options": [
+        "x = 5 and x = -2",
+        "x = -5 and x = 2",
+        "x = 10 and x = -1",
+        "x = -10 and x = 1"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Factor the Trinomial:** Look for two numbers that multiply to -10 and add to +3. The numbers are +5 and -2.\n• The factored form is (x + 5)(x - 2) = 0.\n\n**Solve for x:** Set each factor equal to zero.\n• If x + 5 = 0, then x = -5.\n• If x - 2 = 0, then x = 2.\n\nThe solutions are x = -5 and x = 2."
+    },
+    {
+      "id": 86,
+      "question": "A rectangular garden has an area of 50 square feet. The length is twice the width. If w represents the width, which quadratic equation represents this situation?",
+      "options": [
+        "2w² = 50",
+        "w + 2w = 50",
+        "w² + 2 = 50",
+        "6w = 50"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Define the Dimensions:**\n• Width = w\n• Length = 2w (twice the width)\n\n**Use the Area Formula:** Area = Length × Width.\n\n**Substitute Values and Expressions:**\n• 50 = (2w) × (w)\n• 50 = 2w²\n\nThe correct equation is 2w² = 50."
+    },
+    {
+      "id": 87,
+      "question": "Solve for y: 2(y + 3) = 14",
+      "options": [
+        "y = 4",
+        "y = 5",
+        "y = 5.5",
+        "y = 8"
+      ],
+      "correctAnswer": 0,
+      "correctLetter": "A",
+      "explanation": "**Distribute:** First, use the distributive property to remove the parentheses.\n• 2 × y = 2y\n• 2 × 3 = 6\n• The equation becomes 2y + 6 = 14.\n\n**Solve the Two-Step Equation:**\n• Subtract 6 from both sides: 2y = 8.\n• Divide both sides by 2: y = 4."
+    },
+    {
+      "id": 88,
+      "question": "Solve for x: -4x + 6 ≤ 22",
+      "options": [
+        "x ≤ -4",
+        "x ≥ -4",
+        "x ≤ -7",
+        "x ≥ -7"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Isolate the x-term:** Subtract 6 from both sides.\n• -4x + 6 - 6 ≤ 22 - 6\n• -4x ≤ 16\n\n**Solve for x (and flip the sign):** Divide both sides by -4. When you multiply or divide an inequality by a negative number, you must flip the direction of the inequality sign.\n• -4x / -4 ≥ 16 / -4\n• x ≥ -4"
+    },
+    {
+      "id": 89,
+      "question": "Solve the system of equations:\nx + y = 10\nx - y = 4",
+      "options": [
+        "x = 3, y = 7",
+        "x = 7, y = 3",
+        "x = 6, y = 4",
+        "x = 8, y = 2"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Use the Elimination Method:** The y-coefficients (+1 and -1) are opposites, so add the two equations together to eliminate y.\n• (x + y) + (x - y) = 10 + 4\n• 2x = 14\n\n**Solve for x:**\n• Divide both sides by 2: x = 7\n\n**Solve for y:** Substitute x = 7 into the first equation.\n• 7 + y = 10\n• Subtract 7 from both sides: y = 3\n\nThe solution is x = 7, y = 3."
+    },
+    {
+      "id": 90,
+      "question": "Sam is saving for a bike that costs at most $250. He has $70 already saved and saves $15 per week. Which inequality represents the number of weeks, w, he can save?",
+      "options": [
+        "70 + 15w ≥ 250",
+        "70 + 15w ≤ 250",
+        "15(w + 70) ≤ 250",
+        "70w + 15 ≤ 250"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Write an Expression for Total Savings:** Sam starts with $70 and adds $15 each week (w).\n• Total Savings = 70 + 15w\n\n**Determine the Inequality Symbol:** The phrase \"at most $250\" means the cost can be $250 or less. This corresponds to the \"less than or equal to\" symbol (≤).\n\n**Combine into an Inequality:**\n• 70 + 15w ≤ 250"
+    },
+    {
+      "id": 91,
+      "question": "What is the slope of a line that passes through the points (2, 5) and (4, 9)?",
+      "options": [
+        "-2",
+        "1/2",
+        "2",
+        "4"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Use the Slope Formula:** The formula for slope (m) is m = (y₂ - y₁) / (x₂ - x₁).\n\n**Label the Points:** Let (x₁, y₁) = (2, 5) and (x₂, y₂) = (4, 9).\n\n**Substitute and Calculate:**\n• m = (9 - 5) / (4 - 2)\n• m = 4 / 2 = 2\n\nThe slope of the line is 2."
+    },
+    {
+      "id": 92,
+      "question": "What is the slope of the line given by the equation y = -3x + 7?",
+      "options": [
+        "7",
+        "3",
+        "-3",
+        "-3/7"
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Use Slope-Intercept Form:** The equation is in the form y = mx + b, where 'm' represents the slope.\n\n**Identify the Slope:** By comparing y = -3x + 7 to y = mx + b, we can see that the coefficient of x is -3.\n\nThe slope (m) is -3."
+    },
+    {
+      "id": 93,
+      "question": "A graph shows the total cost of buying apples. The line passes through the origin (0,0) and the point (3, 6), where the x-axis represents pounds of apples and the y-axis represents total cost in dollars. What is the unit rate, or cost per pound, of the apples?",
+      "options": [
+        "$0.50 per pound",
+        "$2 per pound",
+        "$3 per pound",
+        "$6 per pound"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Find the Unit Rate from the Graph:** The unit rate is the cost for one pound. It can be found by calculating the slope of the line.\n\n**Calculate the Slope:** Use the points (0, 0) and (3, 6).\n• Slope = (change in y) / (change in x)\n• Slope = (6 - 0) / (3 - 0) = 6 / 3 = 2\n\n**Interpret the Slope:** A slope of 2 means the cost increases by $2 for every 1 pound of apples. The unit rate is $2 per pound."
+    },
+    {
+      "id": 94,
+      "question": "What is the equation of a line that has a slope of 4 and passes through the point (1, 6)?",
+      "options": [
+        "y = 4x + 1",
+        "y = 4x + 2",
+        "y = 4x + 6",
+        "y = x + 4"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Use Point-Slope Form:** A useful formula is y - y₁ = m(x - x₁).\n\n**Substitute Known Values:**\n• m = 4\n• (x₁, y₁) = (1, 6)\n• y - 6 = 4(x - 1)\n\n**Convert to Slope-Intercept Form (y = mx + b):**\n• Distribute the 4: y - 6 = 4x - 4\n• Add 6 to both sides: y = 4x - 4 + 6\n• Simplify: y = 4x + 2"
+    },
+    {
+      "id": 95,
+      "question": "A line has the equation y = 5x - 1. What is the slope of a line that is parallel to this line?",
+      "options": [
+        "-5",
+        "-1/5",
+        "1/5",
+        "5"
+      ],
+      "correctAnswer": 3,
+      "correctLetter": "D",
+      "explanation": "**Understand Parallel Lines:** Parallel lines have the exact same slope.\n\n**Find the Slope of the Given Line:** The equation y = 5x - 1 is in slope-intercept form (y = mx + b). Its slope (m) is 5.\n\n**Determine the Parallel Slope:** A line parallel to it must also have a slope of 5."
+    },
+    {
+      "id": 96,
+      "question": "A line has a slope of 2/3. What is the slope of a line that is perpendicular to it?",
+      "options": [
+        "2/3",
+        "-2/3",
+        "3/2",
+        "-3/2"
+      ],
+      "correctAnswer": 3,
+      "correctLetter": "D",
+      "explanation": "**Understand Perpendicular Lines:** Perpendicular lines have slopes that are opposite reciprocals.\n\n**Find the Opposite Reciprocal:**\n• **Reciprocal:** Flip the original slope. The reciprocal of 2/3 is 3/2.\n• **Opposite:** Change the sign. Since the original slope was positive, the new slope is negative.\n\nThe slope of the perpendicular line is -3/2."
+    },
+    {
+      "id": 97,
+      "question": "Which of the following graphs represents a function?",
+      "options": [
+        "A circle.",
+        "A vertical line.",
+        "A horizontal line.",
+        "A U-shape opening to the right."
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Use the Vertical Line Test:** A graph represents a function if any vertical line drawn on the graph intersects it at most once.\n\n**Analyze the Options:**\n• A vertical line would cross a circle, a vertical line itself, or a U-shape opening right more than once.\n• A vertical line can only cross a horizontal line exactly once.\n\nA horizontal line passes the vertical line test and is a function."
+    },
+    {
+      "id": 98,
+      "question": "If f(x) = 3x + 8, what is the value of f(4)?",
+      "options": [
+        "15",
+        "20",
+        "24",
+        "36"
+      ],
+      "correctAnswer": 1,
+      "correctLetter": "B",
+      "explanation": "**Understand Function Notation:** The notation f(4) means to evaluate the function by substituting 4 for x.\n\n**Substitute and Calculate:**\n• f(4) = 3(4) + 8\n• f(4) = 12 + 8\n• f(4) = 20"
+    },
+    {
+      "id": 99,
+      "question": "A graph of a function shows a curve starting at the origin, rising to a peak at the point (5, 10), and then falling. What is the relative maximum of this function?",
+      "options": [
+        "0",
+        "5",
+        "10",
+        "The function has no maximum."
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Understand Relative Maximum:** A relative maximum is the y-value of the highest point (a peak) in a section of a graph.\n\n**Identify the Peak:** The problem states the peak of the curve is at the point (5, 10).\n\n**Find the Maximum Value:** The maximum value is the y-coordinate of the peak point. In the point (5, 10), the y-coordinate is 10."
+    },
+    {
+      "id": 100,
+      "question": "Function A is represented by the equation y = 4x + 2. Function B is a line that passes through the points (1, 7) and (3, 15). Which function has a greater rate of change?",
+      "options": [
+        "Function A has a greater rate of change.",
+        "Function B has a greater rate of change.",
+        "The rates of change are equal.",
+        "The relationship cannot be determined."
+      ],
+      "correctAnswer": 2,
+      "correctLetter": "C",
+      "explanation": "**Find Rate of Change for Function A:** For a linear equation in the form y = mx + b, the rate of change is the slope (m).\n• For y = 4x + 2, the rate of change is 4.\n\n**Find Rate of Change for Function B:** Calculate the slope using the two given points (1, 7) and (3, 15).\n• Rate of Change = (y₂ - y₁) / (x₂ - x₁) = (15 - 7) / (3 - 1) = 8 / 2 = 4.\n\n**Compare the Rates:**\n• Rate of Change for A = 4\n• Rate of Change for B = 4\n\nThe rates of change are equal."
+    }
+  ]

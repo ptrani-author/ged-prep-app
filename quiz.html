@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz - GED Study Guide</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <!-- Quiz Header -->
+        <div class="quiz-header">
+            <div class="quiz-nav">
+                <h1 class="subject-title">Math</h1>
+                <div class="question-counter">Question 1 of 100</div>
+            </div>
+            <div class="controls">
+                <button class="btn btn-secondary" onclick="goHome()">← Back to Home</button>
+                <button class="btn btn-secondary" onclick="previousQuestion()">← Previous</button>
+                <button class="btn btn-secondary" onclick="nextQuestion()">Next →</button>
+            </div>
+        </div>
+
+        <!-- Passage Section (hidden by default) -->
+        <div class="passage-section" style="display: none;">
+            <h3>Reading Passage</h3>
+            <div class="passage-content">
+                <!-- Passage content will be inserted here -->
+            </div>
+        </div>
+
+        <!-- Question Section -->
+        <div class="question-section">
+            <div class="question-text">
+                Loading question...
+            </div>
+            
+            <ul class="options-list">
+                <!-- Options will be inserted here -->
+            </ul>
+            
+            <div class="controls">
+                <button class="btn btn-primary" onclick="showExplanation()">Show Solution</button>
+            </div>
+            
+            <!-- Explanation Section -->
+            <div class="explanation">
+                <h4>Explanation:</h4>
+                <div class="explanation-content">
+                    <!-- Explanation will be inserted here -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Question Map -->
+        <div class="question-map">
+            <div class="map-title">Question Navigation</div>
+            <div class="map-grid">
+                <!-- Question map will be generated here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="js/storage.js"></script>
+    <script src="js/questions.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
